@@ -21,7 +21,7 @@ function customfourbyfourbyfour()
 % View Z:  isolate one layer so interior cells become clickable while painting
 
 %You will need to modify this
-EXCEL_PATH = 'C:\Users\ssand\Downloads\1. 5X5X5 sequences unsorted.xlsx';
+EXCEL_PATH = 'molecular-tetris/1. 5X5X5 sequences unsorted.xlsx';
 
 %% --- Theme -----------------------------------------------------------
 C.bg        = [0.00 0.00 0.00];
